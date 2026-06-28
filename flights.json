@@ -1,0 +1,26 @@
+[
+    {
+        "airline":"Indigo",
+        "source":"Pune",
+        "destination":"Delhi",
+        "price":6500,
+        "departure":"10:20 AM",
+        "arrival":"12:15 PM"
+    },
+    {
+        "airline":"Air India",
+        "source":"Pune",
+        "destination":"Delhi",
+        "price":7200,
+        "departure":"08:00 AM",
+        "arrival":"10:10 AM"
+    },
+    {
+        "airline":"Akasa Air",
+        "source":"Pune",
+        "destination":"Delhi",
+        "price":5900,
+        "departure":"06:30 AM",
+        "arrival":"08:45 AM"
+    }
+]
